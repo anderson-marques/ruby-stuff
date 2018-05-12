@@ -1,3 +1,3 @@
 # Ruby Stuff
 
-- [Introduction](./introduction/index.md)
+- [Basics](./introduction/index.md)
