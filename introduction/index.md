@@ -6,5 +6,4 @@
 - [Puts and Print](./004.md)
 - [Ruby Documentation](./005.md)
 
-
 ## [Goback...](../README.md)
