@@ -5,5 +5,6 @@
 - [Integers](./003.md)
 - [Floats](./004.md)
 - [Strings](./005.md)
+- [Arrays](./006.md)
 
 ## [Goback...](../README.md)
